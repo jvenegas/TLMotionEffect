@@ -1,7 +1,7 @@
 TLMotionEffect
 ====================
 
-This category adds a motion effect to your UIView. This is a similar effect can be seen in the bacground of the Home Screen on iOS 7. 
+This category adds a motion effect to your UIView. This is a similar effect can be seen in the background of the Home Screen on iOS 7. 
 
 Feel Free to complete this category with more motion effects. :)
 
